@@ -1,0 +1,1 @@
+A personal portfolio showcasing my skills, and experience as a frontend developer.
