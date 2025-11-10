@@ -8,6 +8,7 @@ import Education from "./components/Education/Education";
 import Contact from "./components/Contact/Contact";
 import Footer from "./components/Footer/Footer";
 import BlurBlob from './components/BlurBlob';
+import Awards from "./components/Awards/Awards";
 
 const App = () => {
   return (
@@ -23,6 +24,7 @@ const App = () => {
         <Skills />
         <Experience />
         {/* <Work /> */}
+        <Awards />
         <Education />
         <Contact />
         <Footer />

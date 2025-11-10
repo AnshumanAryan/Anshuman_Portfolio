@@ -55,6 +55,10 @@ import dockerLogo from './assets/tech_logo/docker-removebg-preview.png';
 import cicdLogo from './assets/tech_logo/cicd-removebg-preview.png';
 import kubernetesLogo from './assets/tech_logo/Kubernetes_logo_without_workmark.svg.png'
 
+import award1 from './assets/awards_images/award1.png'
+import award2 from './assets/awards_images/award2.png'
+import award3 from './assets/awards_images/award3.png'
+
 
 export const SkillsInfo = [
   {
@@ -276,4 +280,19 @@ export const SkillsInfo = [
       github: "https://github.com/codingmastr/Image-Background-Remover",
       webapp: "https://removeyourbg.netlify.app/",
     },
-  ];  
+  ];
+
+  export const awards = [
+    {
+      id: 0,
+      img: award1
+    },
+    {
+      id: 1,
+      img: award2
+    },
+    {
+      id: 2,
+      img: award3
+    }
+  ];
